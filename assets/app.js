@@ -303,6 +303,7 @@
       { t: 'FIFO 광산', h: 'fifo.html', i: '⛏️' },
       { t: '자격증', h: 'certs.html', i: '🎫' },
       { t: '에이지드 케어', h: 'agedcare.html', i: '👩‍⚕️' },
+      { t: '크루즈 승무원', h: 'cruise.html', i: '🚢' },
       { g: '레쥬메 · 면접' },
       { t: '업종별 레쥬메', h: 'resume.html', i: '📄' },
       { t: '업종별 면접', h: 'interview.html', i: '🎤' },
